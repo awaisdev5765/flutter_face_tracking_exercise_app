@@ -46,7 +46,7 @@ The primary use case is positioning a phone or tablet on a stationary part of an
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/awaisdev5765/flutter_face_tracking_excercise_app.git
+git clone https://github.com/awaisdev5765/flutter_face_tracking_exercise_app.git
 cd flutter_face_tracking_excercise_app
 ```
 
